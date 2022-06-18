@@ -1,0 +1,35 @@
+Types of variables in java:
+
+We have 3 types of variables
+
+local
+instance
+static
+
+
+Local variables occupy the memory for shortest period of time
+
+Access modifiers:
+There are 3 access modifiers keywords(private, protected, public) and four access levels
+(private, protected, public,default)
+
+
+Rules:
+Can only be used with instance variables and static members of a class(fields and methods)
+
+private:
+when we use private with a ny method or variable we can only access that method of variable in that class
+
+
+Default (it's not a keyword)
+we can access that member inside the same class inside the same package in other classes.
+
+Public:
+when we use the public access modifier with members of a class it is available thought
+that project.
+
+Real Life use:
+99% of the time instance fields are always private.
+99 % of the time instance and static methods are always private.
+
+=============================================================
