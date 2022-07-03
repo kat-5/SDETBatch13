@@ -1,0 +1,27 @@
+What is Polymorphism:
+
+
+================================================================
+
+What is Abstraction:
+
+   Abstraction  is providing only the necessary details and hiding all implementation details.
+
+
+Why should we learn abstraction:
+   1) It reduced the code complexity by separating the idea from implementation.
+   2) It helps us enforce rules and convey our requirements.
+
+How can we use Abstraction:
+
+   1) Create classes with abstract keyword.
+   2) use the abstract keyword with method header and don't provide the body of that method inside the
+     parent class.
+   3) Create the child classes and extend those classes from the parent class and imnplement the abstraction
+    method.
+   4)  If we don't want to provide the implementation of one of more methods we can declare the child class as
+   abstract as well.
+   5)
+
+
+

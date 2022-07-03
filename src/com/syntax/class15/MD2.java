@@ -1,6 +1,6 @@
 package com.syntax.class15;
 
-import com.apple.eawt.SystemSleepListener;
+
 
 public class MD2 {
     public static void main(String[] args){
