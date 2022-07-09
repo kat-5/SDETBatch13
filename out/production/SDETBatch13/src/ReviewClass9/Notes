@@ -1,0 +1,25 @@
+Some benefits of OOPs:
+
+1- code re-usability
+2- Cleaner code
+3- More flexibility
+4- Less code
+5- Enforcing rules and hiding the complexity and only focusing on
+
+
+How can we use inheritance:
+we use the extend keyword to inherit the classes.
+
+
+class Parent{
+String name;
+
+void printName(){
+
+}
+
+}
+
+class Child extends Parent{
+}
+

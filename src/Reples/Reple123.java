@@ -1,5 +1,7 @@
 package Reples;
 
+import org.w3c.dom.ls.LSOutput;
+
 public class Reple123 {
     int one;
     String two;
@@ -18,6 +20,7 @@ public class Reple123 {
         System.out.println(str.three);
         System.out.println(str.four);
         System.out.println(str.five);
+
 
     }
 }
